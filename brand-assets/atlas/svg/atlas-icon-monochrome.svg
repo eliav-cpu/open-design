@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ATLAS monochrome icon">
+  <g fill="none" stroke="#111827" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 430 L256 78 L416 430" stroke-width="58"/>
+    <path d="M118 430 C165 337 347 337 394 430" stroke-width="42"/>
+    <path d="M202 254 H310" stroke-width="34" stroke-linecap="square"/>
+    <path d="M256 254 V425" stroke-width="34" stroke-linecap="square"/>
+  </g>
+</svg>
