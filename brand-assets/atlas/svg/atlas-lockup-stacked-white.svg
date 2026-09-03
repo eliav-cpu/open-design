@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" role="img" aria-label="ATLAS stacked reversed lockup">
+  <g transform="translate(194,35)" fill="none" stroke="#FFFFFF" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 430 L256 78 L416 430" stroke-width="58"/>
+    <path d="M118 430 C165 337 347 337 394 430" stroke-width="42"/>
+    <path d="M202 254 H310" stroke-width="34" stroke-linecap="square"/>
+    <path d="M256 254 V425" stroke-width="34" stroke-linecap="square"/>
+  </g>
+  <text x="450" y="660" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="122" font-weight="500" letter-spacing="38" fill="#FFFFFF">ATLAS</text>
+  <text x="450" y="738" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#38BDF8">REAL ESTATE INTELLIGENCE PLATFORM</text>
+  <text x="450" y="804" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="5" fill="#F1F5F9">INTELLIGENT. INTEGRATED. IN CONTROL.</text>
+</svg>
