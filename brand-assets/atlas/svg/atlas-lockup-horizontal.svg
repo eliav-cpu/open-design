@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-label="ATLAS horizontal lockup">
+  <defs>
+    <linearGradient id="axis" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(40,20) scale(.72)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 430 L256 78 L416 430" stroke="#111827" stroke-width="58"/>
+    <path d="M118 430 C165 337 347 337 394 430" stroke="#111827" stroke-width="42"/>
+    <path d="M202 254 H310" stroke="url(#axis)" stroke-width="34" stroke-linecap="square"/>
+    <path d="M256 254 V425" stroke="url(#axis)" stroke-width="34" stroke-linecap="square"/>
+  </g>
+  <text x="500" y="245" font-family="Inter, Arial, sans-serif" font-size="128" font-weight="500" letter-spacing="42" fill="#111827">ATLAS</text>
+  <text x="504" y="322" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="7" fill="#2563EB">REAL ESTATE INTELLIGENCE PLATFORM</text>
+</svg>
