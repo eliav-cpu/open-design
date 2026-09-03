@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="ATLAS app icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2F6B"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="axis" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect x="48" y="48" width="928" height="928" rx="210" fill="url(#bg)"/>
+  <g transform="translate(256,246)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 430 L256 78 L416 430" stroke="#FFFFFF" stroke-width="58"/>
+    <path d="M118 430 C165 337 347 337 394 430" stroke="#FFFFFF" stroke-width="42"/>
+    <path d="M202 254 H310" stroke="url(#axis)" stroke-width="34" stroke-linecap="square"/>
+    <path d="M256 254 V425" stroke="url(#axis)" stroke-width="34" stroke-linecap="square"/>
+  </g>
+</svg>
