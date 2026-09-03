@@ -1,8 +1,9 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 
-const root = path.resolve(new URL('..', import.meta.url).pathname, '..');
+const root = fileURLToPath(new URL('..', import.meta.url));
 const svgDir = path.join(root, 'svg');
 const dist = path.join(root, 'dist');
 
@@ -41,7 +42,6 @@ for (const job of jobs) {
   for (const size of sizes) await exportRaster(job, size);
 }
 
-// Conventional web/app filenames.
 await sharp(path.join(svgDir, 'atlas-icon-color.svg')).resize(16, 16).png().toFile(path.join(dist, 'favicon-16.png'));
 await sharp(path.join(svgDir, 'atlas-icon-color.svg')).resize(32, 32).png().toFile(path.join(dist, 'favicon-32.png'));
 await sharp(path.join(svgDir, 'atlas-app-tile.svg')).resize(180, 180).png().toFile(path.join(dist, 'apple-touch-icon-180.png'));
