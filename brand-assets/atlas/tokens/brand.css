@@ -1,0 +1,11 @@
+:root {
+  --atlas-graphite: #111827;
+  --atlas-deep-navy: #0B2F6B;
+  --atlas-blue: #2563EB;
+  --atlas-sky: #38BDF8;
+  --atlas-mist: #F1F5F9;
+  --atlas-slate: #64748B;
+  --atlas-off-white: #F8FAFC;
+  --atlas-axis-gradient: linear-gradient(180deg, #2563EB 0%, #38BDF8 100%);
+  --atlas-product-gradient: linear-gradient(90deg, #0B2F6B 0%, #2563EB 55%, #38BDF8 100%);
+}
