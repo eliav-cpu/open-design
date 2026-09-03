@@ -1,0 +1,11 @@
+{
+  "name": "atlas-brand-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export": "node scripts/export-assets.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

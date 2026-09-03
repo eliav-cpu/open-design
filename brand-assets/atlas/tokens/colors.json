@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "graphite": "#111827",
+    "deepNavy": "#0B2F6B",
+    "atlasBlue": "#2563EB",
+    "sky": "#38BDF8",
+    "mist": "#F1F5F9",
+    "slate": "#64748B",
+    "offWhite": "#F8FAFC"
+  },
+  "semantic": {
+    "textStrong": "#111827",
+    "textSecondary": "#64748B",
+    "surfaceDark": "#0B2F6B",
+    "surfaceLight": "#F8FAFC",
+    "surfaceMuted": "#F1F5F9",
+    "actionPrimary": "#2563EB",
+    "accentMotion": "#38BDF8"
+  },
+  "gradient": {
+    "axis": ["#2563EB", "#38BDF8"],
+    "product": ["#0B2F6B", "#2563EB", "#38BDF8"]
+  }
+}
