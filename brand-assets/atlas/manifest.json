@@ -1,0 +1,44 @@
+{
+  "brand": "ATLAS",
+  "status": "locked-production",
+  "sourceOfTruth": "svg",
+  "palette": {
+    "graphite": "#111827",
+    "deepNavy": "#0B2F6B",
+    "atlasBlue": "#2563EB",
+    "sky": "#38BDF8",
+    "mist": "#F1F5F9",
+    "slate": "#64748B",
+    "offWhite": "#F8FAFC"
+  },
+  "canonicalSources": [
+    "svg/atlas-icon-color.svg",
+    "svg/atlas-icon-monochrome.svg",
+    "svg/atlas-icon-white.svg",
+    "svg/atlas-wordmark.svg",
+    "svg/atlas-lockup-horizontal.svg",
+    "svg/atlas-lockup-horizontal-white.svg",
+    "svg/atlas-lockup-stacked.svg",
+    "svg/atlas-lockup-stacked-white.svg",
+    "svg/atlas-app-tile.svg"
+  ],
+  "exports": {
+    "transparent": [16, 32, 64, 128, 180, 256, 512, 1024, 2048],
+    "backgroundBacked": [64, 128, 180, 256, 512, 1024, 2048],
+    "app": [128, 180, 192, 256, 512, 1024, 2048],
+    "favicon": [16, 32],
+    "webp": true,
+    "png": true
+  },
+  "approvedBackgrounds": [
+    "transparent",
+    "#FFFFFF",
+    "#F8FAFC",
+    "#0B2F6B",
+    "#111827"
+  ],
+  "typography": {
+    "primary": "Inter",
+    "fallback": "Arial, sans-serif"
+  }
+}
